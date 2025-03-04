@@ -52,10 +52,10 @@ reverse-engineered-stable-diffusion/
 │  
 ├── models/                 # Contains model integration scripts  
 ├── utils/                  # Utility scripts for data preprocessing and loss computation  
-├── main.py                 # Entry point for the project  
+├── reverse_stable_diffusion.py                   
 ├── requirements.txt        # List of dependencies  
 ├── README.md               # Project documentation  
-└── results/                # Outputs and visualizations  
+└── mojovit.py                
 ```  
 
 ## How It Works  
